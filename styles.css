@@ -36,6 +36,9 @@ button {
   font-size: 16px;
   border-radius: 4x;
   font-weight: 900;
+  width: 100px;
+  border: none;
+  box-shadow: 10px 10px 10px #000;
 }
 
 h1 {
